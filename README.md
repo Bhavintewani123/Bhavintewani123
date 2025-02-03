@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm Bhavin Tewani</h1>
-<h3 align="center">"🎓B.Tech CSE Student at Parul University"</h3>
+Sure! Here's your content in the formatted code block:
+
+```markdown
+# Hi, I'm Bhavin Tewani
+### "🎓B.Tech CSE Student at Parul University"
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bhavintewani123&label=Profile%20views&color=0e75b6&style=flat" alt="bhavintewani123" />
@@ -17,14 +20,14 @@
   </a>
 </div>
 
-<h2 align="center">🚀 About Me</h2>
+## 🚀 About Me
 <div align="center">
- 🔭 I’m currently working on <b>Crop Prediction</b> <br>
- 👨‍💻 All of my projects are available at <a href="https://bhavintewani423.wixsite.com/portfolio"><b>Portfolio</b></a> <br>
- 📫 Reach me at <b>bhavintewanii@gmail.com</b>
+ 🔭 I’m currently working on **Crop Prediction** <br>
+ 👨‍💻 All of my projects are available at [Portfolio](https://bhavintewani423.wixsite.com/portfolio) <br>
+ 📫 Reach me at **bhavintewanii@gmail.com**
 </div>
-<h2 align="center">Connect with Me</h2>
 
+## Connect with Me
 <div align="center">
   <a href="https://linkedin.com/in/bhavintewani" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavintewani" height="30" width="40" />
@@ -33,8 +36,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavintewani_29" height="30" width="40" />
   </a>
 </div>
-<h2 align="center">Languages and Tools</h2>
 
+## Languages and Tools
 <div align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -82,8 +85,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </div>
-<h2 align="center">GitHub Stats</h2>
 
+## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavintewani123&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
