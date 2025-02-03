@@ -19,7 +19,7 @@
 </p>
 <center>
 
-### 🚀 About Me
+  🚀 About Me
 
 - 🔭 I’m currently working on **Crop Prediction**
 - 🌱 I’m currently learning **Node.js, React.js**
@@ -27,7 +27,7 @@
 - 📫 Reach me at **bhavintewanii@gmail.com**
 
 
-###  Connect with Me
+Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/bhavintewani" target="blank">
@@ -39,7 +39,7 @@
 </p>
 
 
-### Languages and Tools
+Languages and Tools
 
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -96,7 +96,7 @@
 </p>
 
 
-### GitHub Stats
+GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavintewani123&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
