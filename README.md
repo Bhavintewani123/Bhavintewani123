@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bhavin Tewani</h1>
-<h3 align="center">B.Tech CSE Student at Parul University</h3>
+<h3 align="center">"B.Tech CSE Student at Parul University"</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhavintewani123&label=Profile%20views&color=0e75b6&style=flat" alt="bhavintewani123" />
@@ -17,7 +17,7 @@
   </a>
 </p>
 
----
+
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -28,9 +28,9 @@
  📫 Reach me at <b>bhavintewanii@gmail.com</b>
 </p>
 
----
 
-<h2 align="center">🌍 Connect with Me</h2>
+
+<h2 align="center">Connect with Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/bhavintewani" target="blank">
@@ -41,9 +41,9 @@
   </a>
 </p>
 
----
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -93,9 +93,9 @@
   </a>
 </p>
 
----
 
-<h2 align="center">📊 GitHub Stats</h2>
+
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavintewani123&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
