@@ -1,4 +1,4 @@
-<center>
+
 <h1 align="center">Hi, I'm Bhavin Tewani</h1>
 <h3 align="center">B.Tech CSE Student at Parul University</h3>
 
@@ -17,8 +17,7 @@
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a>
 </p>
-
----
+<center>
 
 ### 🚀 About Me
 
