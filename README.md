@@ -18,11 +18,11 @@
 </div>
 
 <h2 align="center">🚀 About Me</h2>
-<center">
+<div align="center">
  🔭 I’m currently working on <b>Crop Prediction</b> <br>
  👨‍💻 All of my projects are available at <a href="https://bhavintewani423.wixsite.com/portfolio"><b>Portfolio</b></a> <br>
  📫 Reach me at <b>bhavintewanii@gmail.com</b>
-</center>
+</div>
 <h2 align="center">Connect with Me</h2>
 
 <div align="center">
