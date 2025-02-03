@@ -1,3 +1,4 @@
+<center>
 <h1 align="center">Hi, I'm Bhavin Tewani</h1>
 <h3 align="center">B.Tech CSE Student at Parul University</h3>
 
@@ -26,9 +27,8 @@
 - 👨‍💻 All of my projects are available at **[Portfolio](https://bhavintewani423.wixsite.com/portfolio)**
 - 📫 Reach me at **bhavintewanii@gmail.com**
 
----
 
-### 🌍 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/bhavintewani" target="blank">
@@ -39,9 +39,8 @@
   </a>
 </p>
 
----
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -97,9 +96,8 @@
   </a>
 </p>
 
----
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavintewani123&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -112,3 +110,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavintewani123&" alt="GitHub Streak" />
 </p>
+</center>
