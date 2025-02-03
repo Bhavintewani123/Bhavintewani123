@@ -17,17 +17,18 @@
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a>
 </p>
-<center>
 
-  🚀 About Me
+<center>
+  🚀 About Me 
 
 - 🔭 I’m currently working on **Crop Prediction**
 - 🌱 I’m currently learning **Node.js, React.js**
 - 👨‍💻 All of my projects are available at **[Portfolio](https://bhavintewani423.wixsite.com/portfolio)**
 - 📫 Reach me at **bhavintewanii@gmail.com**
+  </center>
 
 
-Connect with Me
+</center>Connect with Me</center>
 
 <p align="center">
   <a href="https://linkedin.com/in/bhavintewani" target="blank">
