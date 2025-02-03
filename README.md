@@ -18,14 +18,15 @@
   </a>
 </p>
 
-<center>
+<p align="center">
   🚀 About Me 
 
 - 🔭 I’m currently working on **Crop Prediction**
 - 🌱 I’m currently learning **Node.js, React.js**
 - 👨‍💻 All of my projects are available at **[Portfolio](https://bhavintewani423.wixsite.com/portfolio)**
 - 📫 Reach me at **bhavintewanii@gmail.com**
-  </center>
+ </p>
+
 
 
 </center>Connect with Me</center>
