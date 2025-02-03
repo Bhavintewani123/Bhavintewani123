@@ -27,9 +27,6 @@
  👨‍💻 All of my projects are available at <a href="https://bhavintewani423.wixsite.com/portfolio"><b>Portfolio</b></a> <br>
  📫 Reach me at <b>bhavintewanii@gmail.com</b>
 </p>
-
-
-
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
@@ -40,9 +37,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavintewani_29" height="30" width="40" />
   </a>
 </p>
-
-
-
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
@@ -92,9 +86,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
-
-
-
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
