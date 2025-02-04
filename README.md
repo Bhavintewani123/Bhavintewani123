@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bhavintewani123" alt="bhavintewani123" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hetdabhi" alt="bhavintewani123" />
   </a>
 </div>
 
@@ -93,5 +93,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavintewani123&" alt="GitHub Streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetdabhi&" alt="GitHub Streaks" />
 </div>
