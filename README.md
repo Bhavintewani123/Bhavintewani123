@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bhavin Tewani</h1>
-<h3 align="center">"🎓B.Tech CSE Student at Parul "</h3>
+<h3 align="center">"🎓B.Tech CSE Student at Parul University"</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bhavintewani123&label=Profile%20views&color=0e75b6&style=flat" alt="bhavintewani123" />
